@@ -3,7 +3,7 @@
 Math Wizard is a powerful tool that helps users solve mathematical problems and understand the steps involved in finding solutions.
 
 ## Interface
-![First](insert_interface_image_url_here)
+![First](https://github.com/aditya26062003/Math-Wizard/blob/main/1.png)
 ![Second](insert_interface_image_url_here)
 
 ## Features
