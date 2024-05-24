@@ -1,10 +1,10 @@
-# Math Wizard Using DeepSeek 🐋
+# Math Wizard 🧠 Using DeepSeek 🐋
 
 Math Wizard is a powerful tool that helps users solve mathematical problems and understand the steps involved in finding solutions.
 
 ## Interface
 ![First](https://github.com/aditya26062003/Math-Wizard/blob/main/1.png)
-![Second](insert_interface_image_url_here)
+![Second](https://github.com/aditya26062003/Math-Wizard/blob/main/2.png)
 
 ## Features
 
@@ -48,5 +48,6 @@ Math Wizard relies on the following open-source libraries:
 - Gradio
 - Transformers
 - PyTorch
+- DeepSeek-Math-7b-BaseModel [Link](https://huggingface.co/deepseek-ai/deepseek-math-7b-base)
 
 
