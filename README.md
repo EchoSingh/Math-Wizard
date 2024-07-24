@@ -3,8 +3,8 @@
 Math Wizard is a powerful tool that helps users solve mathematical problems and understand the steps involved in finding solutions.
 
 ## Interface
-![First](https://github.com/aditya26062003/Math-Wizard/blob/main/1.png)
-![Second](https://github.com/aditya26062003/Math-Wizard/blob/main/2.png)
+![First](https://github.com/EchoSingh/Math-Wizard/blob/main/1.png)
+![Second](https://github.com/EchoSingh/Math-Wizard/blob/main/2.png)
 
 ## Features
 
@@ -31,7 +31,7 @@ You can install these dependencies using ``` pip install gradio transformers tor
 
 ## Usage
 
-1. Clone the repository: ```git clone https://github.com/your-username/math-wizard.git ```
+1. Clone the repository: ```git clone https://github.com/EchoSingh/math-wizard.git ```
 2. Navigate to the project directory: ```cd math-wizard```
 3. Run it
 4. Open your web browser and go to given link provided by gradio to access the Math Wizard interface.
